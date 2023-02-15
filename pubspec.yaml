@@ -34,6 +34,8 @@ dependencies:
 
   freezed_annotation: ^2.1.0
 
+  gap:
+
   hooks_riverpod:
 
   # The following adds the Cupertino Icons font to your application.
