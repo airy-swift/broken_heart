@@ -1,0 +1,4 @@
+
+class CantRollBackException implements Exception {
+
+}
